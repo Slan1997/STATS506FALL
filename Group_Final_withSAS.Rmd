@@ -925,7 +925,7 @@ https://www.statsmodels.org/dev/examples/notebooks/generated/predict.html
 https://stats.idre.ucla.edu/stata/dae/probit-regression/
 
 - Probit Regression in SAS : <br />
-https://communities.sas.com/t5/SAS-Programming/How-to-convert-Char-to-Numeric/td-p/322906
+https://communities.sas.com/t5/SAS-Programming/How-to-convert-Char-to-Numeric/td-p/322906 <br />
 https://communities.sas.com/t5/SAS-Programming/How-to-convert-Char-to-Numeric/td-p/322906
 
 
